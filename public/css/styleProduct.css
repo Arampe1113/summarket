@@ -1,0 +1,17 @@
+* {
+  font-family: 'Franklin', sans-serif;
+  box-sizing: border-box;
+}
+
+.footer{
+  background-color: #f2f2f2;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+.zoom{
+  height: auto;
+  max-width: 70%;
+  transition: transform .2s;
+}
